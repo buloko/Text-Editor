@@ -22,7 +22,7 @@ module.exports = () => {
       //html files and bundles
       new HtmlWebpackPlugin({
         template: "./index.html",
-        title: "JATE"
+        title: "JATE Text Editor"
       }),
 
 
